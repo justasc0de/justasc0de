@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm justasc0de
 
-<!--
-**justasc0de/justasc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Front-End Developer** | 🧠 Minimal Back-End Experience | 💻 Passionate about clean, efficient, and scalable solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently studying at **Klaipėdos Universitetas**
+- 🌐 Experienced in **website development**, **scripting**, and **FiveM server creation**
+- 💡 Passionate about **UI/UX**, **responsive web design**, and crafting smooth user experiences
+- ⚙️ Hands-on with **Front-End** technologies and some **Back-End** development
+- 🧠 Strong background in **web technologies** and **game scripting**
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,php,lua,vscode,git,github" />
+</p>
+
+---
+
+---
+
+### 🌍 Connect with Me
+<p align="left">
+  <a href="https://github.com/justasc0de" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📫 **If you're interested in working with me or have a development inquiry, feel free to email me at:**  
+👉 **justas.rumsa@gmail.com**
+
+---
+
+⭐️ _“Code with purpose, learn with passion.”_
